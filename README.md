@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -56,8 +59,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
