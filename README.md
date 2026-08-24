@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
