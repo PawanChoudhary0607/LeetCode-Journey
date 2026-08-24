@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,19 +29,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
