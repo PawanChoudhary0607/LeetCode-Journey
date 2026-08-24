@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
