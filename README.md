@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PawanChoudhary0607/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
